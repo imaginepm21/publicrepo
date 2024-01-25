@@ -666,7 +666,7 @@ const Chat = () => {
                                         },
                                         root: {
                                             color: '#FFFFFF',
-                                            background: "radial-gradient(109.81% 107.82% at 100.1% 90.19%, #0F6CBD 33.63%, #2D87C3 70.31%, #8DDDD8 100%)"
+                                            background: "radial-gradient(109.81% 107.82% at 100.1% 90.19%,#87070C 33.63%,#ed1b24 70.31%,#e6797e 100%)"
                                         },
                                         rootDisabled: {
                                             background: "#F0F0F0"
@@ -689,7 +689,7 @@ const Chat = () => {
                                         },
                                         root: {
                                             color: '#FFFFFF',
-                                            background: "radial-gradient(109.81% 107.82% at 100.1% 90.19%, #0F6CBD 33.63%, #2D87C3 70.31%, #8DDDD8 100%)",
+                                            background: "radial-gradient(109.81% 107.82% at 100.1% 90.19%,#87070C 33.63%,#ed1b24 70.31%,#e6797e 100%)",
                                         },
                                         rootDisabled: {
                                             background: "#F0F0F0"
