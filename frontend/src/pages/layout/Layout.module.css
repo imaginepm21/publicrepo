@@ -15,7 +15,7 @@
 }
 
 @font-face {
-    font-family: 'Free Agent';
+    font-family: 'Free_Agent';
     src: url('../../../../fonts/free_agent_font/freeagent.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -29,7 +29,7 @@
 }
 
 .headerTitle {
-    font-family: 'Free Agent';
+    font-family: 'Free_Agent';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
